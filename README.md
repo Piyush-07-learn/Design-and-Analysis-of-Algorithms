@@ -7,16 +7,16 @@ This repository contains my personal implementations, time complexity analyses, 
 
 ## 💻 Tech Stack
 * **Language:** C++
-* **Topics Covered (Ongoing):**
-  * Searching Algorithms (Linear vs. Binary Search)
-  * Sorting Algorithms
-  * Divide and Conquer
-  * Dynamic Programming
-  * Greedy Algorithms
+* **Topics Covered:**
+  * ✅ Searching Algorithms (Linear vs. Binary Search)
+  * ✅ Sorting Algorithms (Bubble, Insertion, Merge Sort)
+  * ⏳ Divide and Conquer
+  * ⏳ Dynamic Programming
+  * ⏳ Greedy Algorithms
 
 ## 📁 Repository Structure
 * `Searching algorithm.cpp` - Implementation and performance comparison of search techniques.
-* *(More topics and folders will be added as I progress through my coursework)*
+* `Sorting_Algorithms.cpp` - Implementation and time execution comparison of O(n^2) and O(n log n) sorting techniques.
 
 ## 👨‍💻 Author
 **Piyush Upadhyay**
